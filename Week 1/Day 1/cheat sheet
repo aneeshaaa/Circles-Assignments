@@ -1,0 +1,35 @@
+
+
+    echo - prints out the text
+    date - gives the date
+    whoami - provides the name of user
+    pwd - shows which directory you are in
+    cd - change directory
+    ls - list directories
+    ls -a - list all directories including hidden ones
+    ls -l - detailed list of file in long format
+    touch - to create new file, change time stamps of files
+    file - to findout what kind of file it is.
+    cat - to read a file
+    clear - to clear display
+    history - to find previously used commands
+    cp - to copy
+    cp -r - to recursevly copy files within a directory
+    cp -i - prompt you before overwriting
+    mv - to move, rename
+    mv -i - promt before overwriting
+    mv -b - make a backup file
+    mkdir - make directory
+    rm - to remove file
+    rm -f - to remove a bunch of files
+    rm -i prompt before removing
+    rm -r - to remove all files and any sub directories
+    rmdir - remove directory
+    find - finding a file by name
+    help echo - built in tools to help how to use commands
+    man ls - provides documentation
+    whatis - provides brief description of command line
+    alias - to create alias for repetative or long commands
+    exit - to exit from the shell
+    logout - to logout
+
