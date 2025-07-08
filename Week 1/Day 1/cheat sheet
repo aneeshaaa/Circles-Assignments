@@ -32,4 +32,10 @@
     alias - to create alias for repetative or long commands
     exit - to exit from the shell
     logout - to logout
+    echo HELLO WORLD > peanuts.txt  - allow us to send output of echo to a text file.
+    ls -la / etc  - long list of items will be displayed
+    ls -la/ etc | less  - pipe operator allow us to take stdout of a command and make it a stdin of another command
+    echo $HOME  - can see the home directory
+    echo $USER  - can see the username
+    env - info about the environment variables.
 
